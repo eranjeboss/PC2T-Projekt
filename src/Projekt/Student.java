@@ -1,9 +1,7 @@
 package Projekt;
-
-import java.io.Serializable;
 import java.util.ArrayList;
 
-public abstract class Student implements Serializable {
+public abstract class Student {
     private int id;
     private String jmeno;
     private String prijmeni;
